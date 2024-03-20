@@ -120,4 +120,8 @@ main{
     justify-content: center;
 }
 
+img{
+    display: flex;
+}
+
 /*** FEITO POR: LARISSA V. KICH ***/
