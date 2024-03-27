@@ -115,6 +115,27 @@ main{
     padding-right: 0.9em;
 
 }
+textarea{
+width: 98%;
+height: 8rem;
+}
+#result{
+    margin-top: 5px ;
+    padding: 0.3rem;
+    background-color: purple;
+    color: #fff;
+    font-weight: 700 ;
+    font-size: 1.3rem;
+}
+footer{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif    ;
+ margin-top:10px;
+text-align: center;
+padding: 1rem;
+background-color: black;
+color: #fff;
+}
+
 
 .Imagem2{
     justify-content: center;
